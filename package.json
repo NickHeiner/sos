@@ -1,0 +1,11 @@
+{
+  "name": "sos",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve"
+  },
+  "dependencies": {
+    "serve": "^11.1.0"
+  }
+}
